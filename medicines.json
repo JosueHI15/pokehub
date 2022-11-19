@@ -1,0 +1,83 @@
+{
+"Medicamento":[
+{
+	"id": "0",
+	"nombre": "Paracetamol",
+	"dosis": "500 mg, 300 mg y 100 mg/ml",
+	"contraindicaciones": "Hipersensibilidad a paracetamol, a clorhidrato de propacetamol. Insuficiencia hepatocelular grave. Hepatitis vírica. Antecedentes recientes de rectitis, anitis o rectorragias.",
+    "acción": "Analgésico y antipirético. Inhibe la síntesis de prostaglandinas en el SNC y bloquea la generación del impulso doloroso a nivel periférico. Actúa sobre el centro hipotalámico regulador de la temperatura.",
+    "indicaciones ": "Oral o rectal: fiebre; dolor de cualquier etiología de intensidad leve o moderado."
+},
+{
+	"id": "1",
+	"nombre": "Omeprazol",
+	"dosis": "20 mg",
+	"contraindicaciones": "Hipersensibilidad a omeprazol, benzimidazoles. Concomitancia con nelfinavir.",
+    "acción": "Inhibe la secreción de ácido en el estómago. Se une a la bomba de protones en la célula parietal gástrica, inhibiendo el transporte final de H+ al lumen gástrico.",
+    "indicaciones": "Debe administrarse preferentemente por las mañanas."
+},
+{
+	"id": "2",
+	"nombre": "Aspirina",
+	"dosis": "500 mg",
+	"contraindicaciones": "Úlcera gastroduodenal aguda, crónica o recurrente; molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica tras tto.",
+    "acción": "Analgésico y antipirético. Inhibe la síntesis de prostaglandinas, lo que impide la estimulación de los receptores del dolor por bradiquinina y otras sustancias. Efecto antiagregante plaquetario irreversible.",
+    "indicaciones": "Vía oral. Tomar con las comidas o con leche, no con el estómago vacío."
+},
+{
+	"id": "3",
+	"nombre": "Ramipril",
+	"dosis": "10 mg, 5 mg y 2,5 mg",
+	"contraindicaciones": "Hipersensibilidad a ramipril o a otro IECA, estenosis bilateral o unilateral en caso de riñón único y hipotensión o de inestabilidad hemodinámica.",
+    "acción": "Inhibidor del ECA da lugar a concentraciones reducidas de angiotensina II, que conduce a disminución de la actividad vasopresora y secreción reducida de aldosterona.",
+    "indicaciones": "Vía oral. Administrar cada día a la misma hora. Puede tomarse antes, con o después de las comidas. No debe masticarse o machacarse."
+},
+{
+	"id": "4",
+	"nombre": "Simvastatina",
+	"dosis": "20 mg, 10 mg y 5 mg",
+	"contraindicaciones": "Hipersensibilidad a simvastatina, hepatopatía activa o elevaciones persistentes e inexplicables de transaminasas séricas, embarazo, lactancia, concomitancia con inhibidores potentes de CYP3A4, inhibidores de la proteasa del VIH (nelfinavir).",
+    "acción": "Se hidroliza en el hígado a la forma activa ß-hidroxiácido, potente inhibidor de HMG-CoA reductasa que cataliza la conversión de HMG-CoA en mevalonato, paso inicial y limitante de biosíntesis del colesterol.",
+    "indicaciones": "Vía oral. Administrar en dosis única por la noche."
+},
+{
+	"id": "5",
+	"nombre": "Lansoprazol",
+	"dosis": "60 mg y 30 mg",
+	"contraindicaciones": "Hipersensibilidad conocida a cualquiera de los componentes de la formulación.",
+    "acción": "Inhibidor de la bomba de protones que suprime la secreción de ác. gástrico mediante la inhibición específica de la (H+K+)-ATPasa en las células parietales gástricas.",
+    "indicaciones": "Cicatrización y alivio de la sintomatología de todos los grados de esofagitis erosiva, una vez obtenida la cicatrización, también está Indicaciones terapéuticas para mantener al paciente libre de recurrencias."
+},
+{
+	"id": "6",
+	"nombre": "Naproxeno",
+	"dosis": "250mg",
+	"contraindicaciones": "Hipersensibilidad a naproxeno, hemorragia gastrointestinal o perforación relacionados, úlcera péptica/hemorragia gastrointestional activa o recidivante",
+    "acción": "Inhibe la prostaglandina sintetasa.",
+    "indicaciones": "Vía oral. Administrar enteros, con leche o comida, especialmente si se notan molestias digestivas."
+},
+{
+	"id": "7",
+	"nombre": "Ranitidina",
+	"dosis": "150 mg y 75 mg",
+	"contraindicaciones": "Hipersensibilidad; porfiria aguda.",
+    "acción": "Antagoniza los receptores H2 de la histamina de las células parietales del estómago. Inhibe la secreción estimulada y basal de ác. gástrico y reduce la producción de pepsina.",
+    "indicaciones": "Vía oral. Los comprimidos se deben tomar enteros con agua y no se deben romper o machacar. Los comprimidos efervescentes: disolver completamente en medio vaso de agua agitar el vaso, si fuera necesario. En caso de utilizar dosis más elevadas, puede requerirse mayor volumen para la disolución."
+},
+{
+	"id": "8",
+	"nombre": "Ketorolaco",
+	"dosis": "10 mg",
+	"contraindicaciones": "Hipersensibilidad al ketorolaco trometamol u otros AINE, úlcera péptica activa, síndrome completo o parcial de pólipos nasales, angioedema o broncoespasmo.",
+    "acción": "Inhibe la actividad de la ciclooxigenasa, y por tanto la síntesis de prostaglandinas. A dosis analgésicas, efecto antiinflamatorio menor que el de otros AINE.",
+    "indicaciones": "Inyectable: A corto plazo del dolor moderado o severo en postoperatorio y dolor causado por cólico nefrítico. Oral: A corto plazo del dolor leve o moderado en postoperatorio."
+},
+{
+	"id": "9",
+	"nombre": "Ambroxol",
+	"dosis": "750 mg/100 ml y 300 mg/100 ml",
+	"contraindicaciones": "Hipersensibilidad. Además para el jarabe, sol. oral y sol. inyectable: niños < 2 años.",
+    "acción": "Aumenta la secreción de vías respiratorias, potencia la producción de surfactante pulmonar y estimula la actividad ciliar. Estas acciones tienen como consecuencia una mejoría del flujo y del transporte de la mucosidad, según se ha demostrado en estudios farmacológicos.",
+    "indicaciones": "Vía oral se debe tomar preferentemente durante o después de las comidas. "}
+]
+}
